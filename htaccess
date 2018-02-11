@@ -1,0 +1,37 @@
+ErrorDocument 403 /404.html
+ErrorDocument 404 /404.html
+
+DirectoryIndex page2013284.html
+
+RewriteEngine On
+
+RewriteRule ^shablon$ page2162093.html [NC]
+RewriteRule ^shablon/$ page2162093.html [NC]
+
+RewriteRule ^novaya_pechat$ page2161996.html [NC]
+RewriteRule ^novaya_pechat/$ page2161996.html [NC]
+
+RewriteRule ^pechat_po_ottisku$ page2162023.html [NC]
+RewriteRule ^pechat_po_ottisku/$ page2162023.html [NC]
+
+RewriteRule ^noviy_shtamp$ page2162041.html [NC]
+RewriteRule ^noviy_shtamp/$ page2162041.html [NC]
+
+RewriteRule ^shtamp_po_ottisku$ page2162047.html [NC]
+RewriteRule ^shtamp_po_ottisku/$ page2162047.html [NC]
+
+RewriteRule ^faksimile$ page2162053.html [NC]
+RewriteRule ^faksimile/$ page2162053.html [NC]
+
+RewriteRule ^ekslibris$ page2162057.html [NC]
+RewriteRule ^ekslibris/$ page2162057.html [NC]
+
+RewriteRule ^pechat_vracha$ page2162061.html [NC]
+RewriteRule ^pechat_vracha/$ page2162061.html [NC]
+
+RewriteRule ^individualnaya_pechat$ page2162065.html [NC]
+RewriteRule ^individualnaya_pechat/$ page2162065.html [NC]
+
+RewriteRule ^faq$ page2162082.html [NC]
+RewriteRule ^faq/$ page2162082.html [NC]
+
